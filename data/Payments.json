@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9781bd16-8221-4eb6-a37f-2eb60acc1338",
+    "payeeId": "a5b500e1-2ba7-4623-baa2-e096a721b5e",
+    "payerId": "d8f090ae-a4ed-42dc-9181-f51564d0e305",
+    "paymentSystem": "yandexMoney",
+    "paymentMethod": "PMB",
+    "amount": 1337.01,
+    "currency": "RUB",
+    "status": "created",
+    "comment": "Salary",
+    "created": "2018-03-09T11:26:14.805Z",
+    "updated": "2020-10-07T17:38:03.761Z"
+  },
+  {
+    "id": "84a5beba-1623-4ced-a8ec-67c0ad17e92c",
+    "payeeId": "a5b500e1-2ba7-4623-baa2-e096a721b5e",
+    "payerId": "d8f090ae-a4ed-42dc-9181-f51564d0e305",
+    "paymentSystem": "yandexMoney",
+    "paymentMethod": "PMB",
+    "amount": 1912,
+    "currency": "RUB",
+    "comment": null,
+    "status": "approved",
+    "created": "2020-10-06T19:29:43.297Z",
+    "updated": "2020-10-07T17:36:40.743Z"
+  },
+  {
+    "id": "84a5didi-1623-4ceb-a8nc-67d0ad17e427",
+    "payeeId": "a5b500e1-2ba7-4623-baa2-e096a721b5e",
+    "payerId": "d8f090ae-a4ed-42dc-9181-f51564d0e305",
+    "paymentSystem": "yandexMoney",
+    "paymentMethod": "PMB",
+    "amount": 1500,
+    "currency": "GBP",
+    "comment": null,
+    "status": "cancelled",
+    "created": "2020-10-06T19:29:43.297Z",
+    "updated": "2020-10-07T17:36:40.743Z"
+  }
+]
